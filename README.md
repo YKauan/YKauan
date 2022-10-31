@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @YKauan
+- 👀 I’m interested in IA, game development and apps
+- 🌱 I’m currently learning Python, Java and development with the Unreal Engine
+- 📚 I’m studying Computer Science
