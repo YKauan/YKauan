@@ -1,5 +1,8 @@
-# 💫 About Me:
-👨‍💻 Estudante de Ciência da Computação<br>👯 Um estágiario <br>🌱 Atualmente estou aprendendo<br>🚀 Vamos criar juntos um futuro digital incrível!<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&separator=%3D&lines=MsgInfo(%22Hello%2C+World!%22)%3DSystem.out.println(%22Hello%2C+World!%22);%3Dprint(%22Hello%2C+World!%22)%3Dconsole.log(%22Hello%2C+World!%22);%3Dstd%3A%3Acout+%3C%3C+%22Hello%2C+World!%22+%3C%3C+std%3A%3Aendl;%3Dfmt.Println(%22Hello%2C+World!%22)%3DUE_LOG(LogTemp%2C+Warning%2C+TEXT(%22Hello%2C+World!%22));%3Dprint(%22Hello%2C+World!%22))](https://git.io/typing-svg)
+
+# ✍ About Me:
+👨‍💻 Computer Science Student <br>
+<br>
 
 # 💻 My favorite tools and technologies
 
