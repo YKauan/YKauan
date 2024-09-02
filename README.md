@@ -88,7 +88,7 @@
       <br>VsCode
     </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="swift" />
+        <img src="https://techstack-generator.vercel.app/swift-icon.svg" width="48" height="48" alt="swift" />
       <br>Swift
     </td>
     <td align="center" width="96">
